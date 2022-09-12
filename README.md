@@ -7,7 +7,7 @@ My main focus is Frontend; although I have theoretical and practical experience 
 P.S. I love the idea of using Blockchain technology with government institutions and economic systems.
 
 # 💻 Some technologies I use:
-[https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E](google.com)
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />(google.com)
 
 ## ⚒️   My projects:
 
