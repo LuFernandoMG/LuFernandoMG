@@ -32,7 +32,7 @@ You can see a little bit of those projects that I feature here in my GitHub and 
 - **[ReactMovie](https://github.com/LuFernandoMG/ReactMovie)**: *(React)* In MovieApp, we started showing a bit of conventional React usage in any application deployed in production. This exercise aims to show the consumption of APIs from React, the handling of Hooks, and a review of all the tools React gives us for general use.
 
 
-## anything else
+## 🚀 Some other facts about me
 
 - 🌱 Now I'm learning Solidity and Swift.
 - 💬 I'm a digital nomad in Latin America, so I usually change my country every two months.
