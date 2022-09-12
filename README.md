@@ -43,7 +43,7 @@ Coming soon 😅
 
 ## 📈   Some of my stats are:
   <img width='600' style="margin: 10px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuFernandoMG&theme=vue" />
-  <img width='600' style="margin: 10px" src="https://github-readme-streak-stats.herokuapp.com/?user=LuFernandoMG" />
+  <img width='600' style="margin: 10px" src="https://activity-graph.herokuapp.com/graph?username=LuFernandoMG&theme=minimal" />
 
 
 ***Want to get in touch?***
