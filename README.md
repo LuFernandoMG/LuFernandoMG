@@ -4,9 +4,9 @@ I'm a software engineer with more than five years of experience, passionate abou
 
 My main focus is Frontend; although I have theoretical and practical experience in product design, my main forte is the development of these products. My main tools are React and its derivatives (including React Native and Next.js). And lately, I've been learning more about Solidity, the Blockchain ecosystem, and how to use decentralized networks as the Backend for new applications.
 
-P.S. I love the idea of using Blockchain technology with government institutions and economic systems.
+<u>P.S. I love the idea of using Blockchain technology with government institutions and economic systems.</u>
 
-## 💻 Some technologies I use:
+## 💻 Some technologies I use
 <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></a>
 <a target="_blank" href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
 <a target="_blank" href="https://redux.js.org/"><img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" /></a>
