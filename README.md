@@ -42,13 +42,9 @@ Coming soon 😅
 
 
 ## 📈   Some of my stats are:
+  <img width='200' style="margin: 10px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuFernandoMG&theme=vue" />
+  <img width='200' style="margin: 10px" src="https://github-readme-stats.vercel.app/api?username=LuFernandoMG" />
 
-<p align="center">
-  <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuFernandoMG" />
-</p>
-<p align="center">
-  <img align="" src="https://github-readme-stats.vercel.app/api?username=LuFernandoMG" />
-</p>
 
 ***Want to get in touch?***
 <br />
