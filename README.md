@@ -6,8 +6,18 @@ My main focus is Frontend; although I have theoretical and practical experience 
 
 P.S. I love the idea of using Blockchain technology with government institutions and economic systems.
 
-# 💻 Some technologies I use:
-<a target="_blank" href="https://www.google.com"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></a>
+## 💻 Some technologies I use:
+<a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></a>
+<a target="_blank" href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
+<a target="_blank" href="https://redux.js.org/"><img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" /></a>
+<a target="_blank" href="https://redux-saga.js.org/"><img src="https://img.shields.io/badge/Redux%20saga-86D46B?style=for-the-badge&logo=redux%20saga&logoColor=999999" /></a>
+<a target="_blank" href="https://nextjs.org/docs"><img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/></a>
+<a target="_blank" href="https://reactnative.dev/"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
+<a target="_blank" href="https://firebase.google.com/"><img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/></a>
+<a target="_blank" href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /></a>
+<a target="_blank" href="https://docs.soliditylang.org/en/v0.8.17/"><img alt="Solidity" src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black"/></a>
+<a target="_blank" href="https://docs.swift.org/swift-book/index.html"><img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" /></a>
+<a target="_blank" href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /></a>
 
 ## ⚒️   My projects:
 
