@@ -4,7 +4,8 @@ I'm a software engineer with more than five years of experience, passionate abou
 
 My main focus is Frontend; although I have theoretical and practical experience in product design, my main forte is the development of these products. My main tools are React and its derivatives (including React Native and Next.js). And lately, I've been learning more about Solidity, the Blockchain ecosystem, and how to use decentralized networks as the Backend for new applications.
 
-<u>P.S. I love the idea of using Blockchain technology with government institutions and economic systems.</u>
+*P.S. I love the idea of using Blockchain technology with government institutions and economic systems.*
+
 
 ## 💻 Some technologies I use
 <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></a>
@@ -43,19 +44,17 @@ Coming soon 😅
 ## 📈   Some of my stats are:
 
 <p align="center">
-  <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanEC-dev" />
+  <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuFernandoMG" />
 </p>
 <p align="center">
-  <img align="" src="https://github-readme-stats.vercel.app/api?username=BryanEC-dev" />
+  <img align="" src="https://github-readme-stats.vercel.app/api?username=LuFernandoMG" />
 </p>
 
 
+***Want to get in touch?*** 
+<a target="_blank" href="https://www.linkedin.com/in/mgluisfernando/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a target="_blank" href="https://twitter.com/mgluisfernando"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a target="_blank" href="mailto:hello@luisfernando.io"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a target="_blank" href="https://wa.me/584120718906"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a target="_blank" href="luisfernando.io"><img src="https://img.shields.io/badge/HTML%20Academy-302683?style=for-the-badge&logo=HTML%20Academy&logoColor=white" /></a>
 
-
-
-
-
-<!---
-BryanEC-dev/BryanEC-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
