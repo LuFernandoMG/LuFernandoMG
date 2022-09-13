@@ -2,7 +2,7 @@
 
 I'm a software engineer with more than five years of experience, passionate about those things that generate impact. I love politics, economics and entrepreneurship. I currently work at [Bridge for Billions](https://www.bridgeforbillions.org) helping to build an app that powers entrepreneurship ecosystems in over 90 countries.
 
-My main focus is Frontend; although I have theoretical and practical experience in product design, my main forte is the development of these products. My main tools are React and its derivatives (including React Native and Next.js). And lately, I've been learning more about Solidity, the Blockchain ecosystem, and how to use decentralized networks as the Backend for new applications.
+My focus is Frontend; although I have theoretical and practical experience in product design, my strenght is the development of these products. My main tools are React and its derivatives (including React Native and Next.js). And lately, I've been learning more about Solidity, the Blockchain ecosystem, and how to use decentralized networks as the Backend for new applications.
 
 *P.S. I love the idea of using Blockchain technology with government institutions and economic systems.*
 
