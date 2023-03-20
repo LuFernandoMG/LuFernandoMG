@@ -34,9 +34,9 @@ You can see a little bit of those projects that I feature here in my GitHub and 
 
 ## 🚀 Some other facts about me
 
-- 🌱 Now I'm learning Solidity and Swift.
-- 💬 I'm a digital nomad in Latin America, so I usually change my country every two months.
-- 👀 I want to use Blockchain technology in governments and public affairs.
+- 🌱 Now I'm learning Python.
+- 💬 I'm a digital nomad in Latin America, right now I'm in 🇧🇷.
+- 👀 I want to use Blockchain technology in governments and public affairs, and to fight climate change.
 - 🧑🏼‍🍳 I love cooking.
 
 
