@@ -19,6 +19,7 @@ My focus is Frontend; although I have theoretical and practical experience in pr
 <a target="_blank" href="https://docs.soliditylang.org/en/v0.8.17/"><img alt="Solidity" src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black"/></a>
 <a target="_blank" href="https://docs.swift.org/swift-book/index.html"><img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" /></a>
 <a target="_blank" href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /></a>
+<a target="_blank" href="https://docs.python.org/3/"><img src="https://img.shields.io/badge/Python-0249ba?style=for-the-badge&logo=python&logoColor=white" /></a>
 
 ## ⚒️   My projects:
 
